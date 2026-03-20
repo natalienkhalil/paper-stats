@@ -1,0 +1,703 @@
+year,field_id,field_name,count
+2000,https://openalex.org/fields/27,Medicine,301238
+2000,https://openalex.org/fields/22,Engineering,169735
+2000,https://openalex.org/fields/33,Social Sciences,126829
+2000,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",107509
+2000,https://openalex.org/fields/12,Arts and Humanities,106845
+2000,https://openalex.org/fields/31,Physics and Astronomy,78454
+2000,https://openalex.org/fields/23,Environmental Science,68728
+2000,https://openalex.org/fields/11,Agricultural and Biological Sciences,57484
+2000,https://openalex.org/fields/25,Materials Science,56549
+2000,https://openalex.org/fields/16,Chemistry,55317
+2000,https://openalex.org/fields/17,Computer Science,48977
+2000,https://openalex.org/fields/19,Earth and Planetary Sciences,44416
+2000,https://openalex.org/fields/20,"Economics, Econometrics and Finance",39078
+2000,https://openalex.org/fields/32,Psychology,35435
+2000,https://openalex.org/fields/28,Neuroscience,33476
+2000,https://openalex.org/fields/36,Health Professions,30977
+2000,https://openalex.org/fields/14,"Business, Management and Accounting",23429
+2000,https://openalex.org/fields/26,Mathematics,23126
+2000,https://openalex.org/fields/24,Immunology and Microbiology,19544
+2000,https://openalex.org/fields/18,Decision Sciences,10393
+2000,https://openalex.org/fields/29,Nursing,7410
+2000,https://openalex.org/fields/15,Chemical Engineering,6594
+2000,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",6484
+2000,https://openalex.org/fields/21,Energy,4295
+2000,https://openalex.org/fields/35,Dentistry,4089
+2000,https://openalex.org/fields/34,Veterinary,2535
+2001,https://openalex.org/fields/27,Medicine,276090
+2001,https://openalex.org/fields/22,Engineering,167422
+2001,https://openalex.org/fields/33,Social Sciences,132913
+2001,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",104388
+2001,https://openalex.org/fields/31,Physics and Astronomy,80251
+2001,https://openalex.org/fields/12,Arts and Humanities,61819
+2001,https://openalex.org/fields/25,Materials Science,57948
+2001,https://openalex.org/fields/11,Agricultural and Biological Sciences,57624
+2001,https://openalex.org/fields/23,Environmental Science,57194
+2001,https://openalex.org/fields/16,Chemistry,54992
+2001,https://openalex.org/fields/17,Computer Science,48331
+2001,https://openalex.org/fields/20,"Economics, Econometrics and Finance",39239
+2001,https://openalex.org/fields/32,Psychology,35517
+2001,https://openalex.org/fields/19,Earth and Planetary Sciences,30961
+2001,https://openalex.org/fields/28,Neuroscience,30909
+2001,https://openalex.org/fields/36,Health Professions,30808
+2001,https://openalex.org/fields/14,"Business, Management and Accounting",24092
+2001,https://openalex.org/fields/26,Mathematics,23602
+2001,https://openalex.org/fields/24,Immunology and Microbiology,18773
+2001,https://openalex.org/fields/18,Decision Sciences,10409
+2001,https://openalex.org/fields/29,Nursing,6696
+2001,https://openalex.org/fields/15,Chemical Engineering,6614
+2001,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",6206
+2001,https://openalex.org/fields/21,Energy,4107
+2001,https://openalex.org/fields/35,Dentistry,3786
+2001,https://openalex.org/fields/34,Veterinary,2524
+2002,https://openalex.org/fields/22,Engineering,322847
+2002,https://openalex.org/fields/27,Medicine,282322
+2002,https://openalex.org/fields/17,Computer Science,169633
+2002,https://openalex.org/fields/33,Social Sciences,139738
+2002,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",107778
+2002,https://openalex.org/fields/31,Physics and Astronomy,98104
+2002,https://openalex.org/fields/25,Materials Science,69035
+2002,https://openalex.org/fields/23,Environmental Science,63867
+2002,https://openalex.org/fields/12,Arts and Humanities,63814
+2002,https://openalex.org/fields/11,Agricultural and Biological Sciences,59352
+2002,https://openalex.org/fields/16,Chemistry,57450
+2002,https://openalex.org/fields/20,"Economics, Econometrics and Finance",42028
+2002,https://openalex.org/fields/32,Psychology,39548
+2002,https://openalex.org/fields/19,Earth and Planetary Sciences,35533
+2002,https://openalex.org/fields/28,Neuroscience,33277
+2002,https://openalex.org/fields/36,Health Professions,32913
+2002,https://openalex.org/fields/14,"Business, Management and Accounting",28914
+2002,https://openalex.org/fields/26,Mathematics,26216
+2002,https://openalex.org/fields/24,Immunology and Microbiology,18665
+2002,https://openalex.org/fields/18,Decision Sciences,14621
+2002,https://openalex.org/fields/15,Chemical Engineering,7233
+2002,https://openalex.org/fields/29,Nursing,7125
+2002,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",6676
+2002,https://openalex.org/fields/21,Energy,5351
+2002,https://openalex.org/fields/35,Dentistry,4180
+2002,https://openalex.org/fields/34,Veterinary,2644
+2003,https://openalex.org/fields/27,Medicine,312616
+2003,https://openalex.org/fields/22,Engineering,262775
+2003,https://openalex.org/fields/33,Social Sciences,143759
+2003,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",117659
+2003,https://openalex.org/fields/17,Computer Science,112591
+2003,https://openalex.org/fields/31,Physics and Astronomy,94455
+2003,https://openalex.org/fields/25,Materials Science,69716
+2003,https://openalex.org/fields/12,Arts and Humanities,65686
+2003,https://openalex.org/fields/23,Environmental Science,65472
+2003,https://openalex.org/fields/11,Agricultural and Biological Sciences,62327
+2003,https://openalex.org/fields/16,Chemistry,58444
+2003,https://openalex.org/fields/20,"Economics, Econometrics and Finance",47000
+2003,https://openalex.org/fields/32,Psychology,38878
+2003,https://openalex.org/fields/28,Neuroscience,34865
+2003,https://openalex.org/fields/19,Earth and Planetary Sciences,34672
+2003,https://openalex.org/fields/36,Health Professions,34486
+2003,https://openalex.org/fields/14,"Business, Management and Accounting",29632
+2003,https://openalex.org/fields/26,Mathematics,27461
+2003,https://openalex.org/fields/24,Immunology and Microbiology,20242
+2003,https://openalex.org/fields/18,Decision Sciences,13821
+2003,https://openalex.org/fields/29,Nursing,7769
+2003,https://openalex.org/fields/15,Chemical Engineering,7461
+2003,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",6999
+2003,https://openalex.org/fields/21,Energy,5617
+2003,https://openalex.org/fields/35,Dentistry,4614
+2003,https://openalex.org/fields/34,Veterinary,2719
+2004,https://openalex.org/fields/27,Medicine,347342
+2004,https://openalex.org/fields/22,Engineering,247291
+2004,https://openalex.org/fields/33,Social Sciences,151210
+2004,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",126147
+2004,https://openalex.org/fields/17,Computer Science,97772
+2004,https://openalex.org/fields/31,Physics and Astronomy,93825
+2004,https://openalex.org/fields/25,Materials Science,72812
+2004,https://openalex.org/fields/12,Arts and Humanities,71319
+2004,https://openalex.org/fields/23,Environmental Science,68245
+2004,https://openalex.org/fields/11,Agricultural and Biological Sciences,65948
+2004,https://openalex.org/fields/16,Chemistry,60310
+2004,https://openalex.org/fields/20,"Economics, Econometrics and Finance",49648
+2004,https://openalex.org/fields/32,Psychology,40833
+2004,https://openalex.org/fields/36,Health Professions,39857
+2004,https://openalex.org/fields/28,Neuroscience,36111
+2004,https://openalex.org/fields/19,Earth and Planetary Sciences,34896
+2004,https://openalex.org/fields/14,"Business, Management and Accounting",30426
+2004,https://openalex.org/fields/26,Mathematics,26206
+2004,https://openalex.org/fields/24,Immunology and Microbiology,21946
+2004,https://openalex.org/fields/18,Decision Sciences,13295
+2004,https://openalex.org/fields/29,Nursing,8287
+2004,https://openalex.org/fields/15,Chemical Engineering,7905
+2004,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",7389
+2004,https://openalex.org/fields/21,Energy,5797
+2004,https://openalex.org/fields/35,Dentistry,5163
+2004,https://openalex.org/fields/34,Veterinary,2912
+2005,https://openalex.org/fields/27,Medicine,370677
+2005,https://openalex.org/fields/22,Engineering,286620
+2005,https://openalex.org/fields/33,Social Sciences,165117
+2005,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",127315
+2005,https://openalex.org/fields/17,Computer Science,124513
+2005,https://openalex.org/fields/31,Physics and Astronomy,101533
+2005,https://openalex.org/fields/25,Materials Science,77214
+2005,https://openalex.org/fields/23,Environmental Science,74513
+2005,https://openalex.org/fields/12,Arts and Humanities,71971
+2005,https://openalex.org/fields/11,Agricultural and Biological Sciences,71157
+2005,https://openalex.org/fields/16,Chemistry,63109
+2005,https://openalex.org/fields/20,"Economics, Econometrics and Finance",52232
+2005,https://openalex.org/fields/32,Psychology,43771
+2005,https://openalex.org/fields/36,Health Professions,42226
+2005,https://openalex.org/fields/28,Neuroscience,37266
+2005,https://openalex.org/fields/19,Earth and Planetary Sciences,37212
+2005,https://openalex.org/fields/14,"Business, Management and Accounting",34625
+2005,https://openalex.org/fields/26,Mathematics,28719
+2005,https://openalex.org/fields/24,Immunology and Microbiology,22122
+2005,https://openalex.org/fields/18,Decision Sciences,15194
+2005,https://openalex.org/fields/15,Chemical Engineering,8366
+2005,https://openalex.org/fields/29,Nursing,8164
+2005,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",7805
+2005,https://openalex.org/fields/21,Energy,6658
+2005,https://openalex.org/fields/35,Dentistry,5781
+2005,https://openalex.org/fields/34,Veterinary,3042
+2006,https://openalex.org/fields/27,Medicine,406209
+2006,https://openalex.org/fields/22,Engineering,310431
+2006,https://openalex.org/fields/33,Social Sciences,175370
+2006,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",138713
+2006,https://openalex.org/fields/17,Computer Science,131355
+2006,https://openalex.org/fields/31,Physics and Astronomy,104291
+2006,https://openalex.org/fields/25,Materials Science,86750
+2006,https://openalex.org/fields/23,Environmental Science,81304
+2006,https://openalex.org/fields/12,Arts and Humanities,76529
+2006,https://openalex.org/fields/11,Agricultural and Biological Sciences,75216
+2006,https://openalex.org/fields/16,Chemistry,66289
+2006,https://openalex.org/fields/20,"Economics, Econometrics and Finance",55901
+2006,https://openalex.org/fields/32,Psychology,48072
+2006,https://openalex.org/fields/36,Health Professions,45122
+2006,https://openalex.org/fields/19,Earth and Planetary Sciences,40069
+2006,https://openalex.org/fields/28,Neuroscience,39382
+2006,https://openalex.org/fields/14,"Business, Management and Accounting",38906
+2006,https://openalex.org/fields/26,Mathematics,29852
+2006,https://openalex.org/fields/24,Immunology and Microbiology,23903
+2006,https://openalex.org/fields/18,Decision Sciences,16796
+2006,https://openalex.org/fields/29,Nursing,8847
+2006,https://openalex.org/fields/15,Chemical Engineering,8699
+2006,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",8258
+2006,https://openalex.org/fields/21,Energy,7510
+2006,https://openalex.org/fields/35,Dentistry,6402
+2006,https://openalex.org/fields/34,Veterinary,3384
+2007,https://openalex.org/fields/27,Medicine,414330
+2007,https://openalex.org/fields/22,Engineering,297559
+2007,https://openalex.org/fields/33,Social Sciences,190113
+2007,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",140232
+2007,https://openalex.org/fields/17,Computer Science,130803
+2007,https://openalex.org/fields/31,Physics and Astronomy,103934
+2007,https://openalex.org/fields/25,Materials Science,90886
+2007,https://openalex.org/fields/23,Environmental Science,84758
+2007,https://openalex.org/fields/12,Arts and Humanities,83857
+2007,https://openalex.org/fields/11,Agricultural and Biological Sciences,79456
+2007,https://openalex.org/fields/16,Chemistry,66827
+2007,https://openalex.org/fields/20,"Economics, Econometrics and Finance",56468
+2007,https://openalex.org/fields/32,Psychology,50583
+2007,https://openalex.org/fields/36,Health Professions,47276
+2007,https://openalex.org/fields/19,Earth and Planetary Sciences,41509
+2007,https://openalex.org/fields/14,"Business, Management and Accounting",41504
+2007,https://openalex.org/fields/28,Neuroscience,39904
+2007,https://openalex.org/fields/26,Mathematics,32064
+2007,https://openalex.org/fields/24,Immunology and Microbiology,24834
+2007,https://openalex.org/fields/18,Decision Sciences,17845
+2007,https://openalex.org/fields/29,Nursing,9334
+2007,https://openalex.org/fields/15,Chemical Engineering,8796
+2007,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",8630
+2007,https://openalex.org/fields/21,Energy,8264
+2007,https://openalex.org/fields/35,Dentistry,7139
+2007,https://openalex.org/fields/34,Veterinary,3482
+2008,https://openalex.org/fields/27,Medicine,448410
+2008,https://openalex.org/fields/22,Engineering,315966
+2008,https://openalex.org/fields/33,Social Sciences,207378
+2008,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",151589
+2008,https://openalex.org/fields/17,Computer Science,144940
+2008,https://openalex.org/fields/31,Physics and Astronomy,103384
+2008,https://openalex.org/fields/25,Materials Science,95111
+2008,https://openalex.org/fields/23,Environmental Science,90688
+2008,https://openalex.org/fields/12,Arts and Humanities,88339
+2008,https://openalex.org/fields/11,Agricultural and Biological Sciences,85203
+2008,https://openalex.org/fields/16,Chemistry,68290
+2008,https://openalex.org/fields/20,"Economics, Econometrics and Finance",60339
+2008,https://openalex.org/fields/32,Psychology,55162
+2008,https://openalex.org/fields/36,Health Professions,50539
+2008,https://openalex.org/fields/14,"Business, Management and Accounting",47119
+2008,https://openalex.org/fields/28,Neuroscience,43288
+2008,https://openalex.org/fields/19,Earth and Planetary Sciences,43064
+2008,https://openalex.org/fields/26,Mathematics,34557
+2008,https://openalex.org/fields/24,Immunology and Microbiology,26515
+2008,https://openalex.org/fields/18,Decision Sciences,20561
+2008,https://openalex.org/fields/29,Nursing,10031
+2008,https://openalex.org/fields/15,Chemical Engineering,9662
+2008,https://openalex.org/fields/21,Energy,9584
+2008,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",9120
+2008,https://openalex.org/fields/35,Dentistry,7409
+2008,https://openalex.org/fields/34,Veterinary,3589
+2009,https://openalex.org/fields/27,Medicine,475201
+2009,https://openalex.org/fields/22,Engineering,339829
+2009,https://openalex.org/fields/33,Social Sciences,223811
+2009,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",161860
+2009,https://openalex.org/fields/17,Computer Science,158034
+2009,https://openalex.org/fields/31,Physics and Astronomy,107458
+2009,https://openalex.org/fields/25,Materials Science,100129
+2009,https://openalex.org/fields/23,Environmental Science,99640
+2009,https://openalex.org/fields/12,Arts and Humanities,94535
+2009,https://openalex.org/fields/11,Agricultural and Biological Sciences,92641
+2009,https://openalex.org/fields/16,Chemistry,69678
+2009,https://openalex.org/fields/20,"Economics, Econometrics and Finance",67464
+2009,https://openalex.org/fields/32,Psychology,59810
+2009,https://openalex.org/fields/36,Health Professions,54622
+2009,https://openalex.org/fields/14,"Business, Management and Accounting",51775
+2009,https://openalex.org/fields/28,Neuroscience,47778
+2009,https://openalex.org/fields/19,Earth and Planetary Sciences,45226
+2009,https://openalex.org/fields/26,Mathematics,35502
+2009,https://openalex.org/fields/24,Immunology and Microbiology,27952
+2009,https://openalex.org/fields/18,Decision Sciences,22219
+2009,https://openalex.org/fields/21,Energy,11465
+2009,https://openalex.org/fields/29,Nursing,11053
+2009,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",9741
+2009,https://openalex.org/fields/15,Chemical Engineering,9570
+2009,https://openalex.org/fields/35,Dentistry,8060
+2009,https://openalex.org/fields/34,Veterinary,4011
+2010,https://openalex.org/fields/27,Medicine,499963
+2010,https://openalex.org/fields/22,Engineering,376451
+2010,https://openalex.org/fields/33,Social Sciences,240562
+2010,https://openalex.org/fields/17,Computer Science,171923
+2010,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",170704
+2010,https://openalex.org/fields/31,Physics and Astronomy,109575
+2010,https://openalex.org/fields/25,Materials Science,107682
+2010,https://openalex.org/fields/23,Environmental Science,106510
+2010,https://openalex.org/fields/12,Arts and Humanities,103909
+2010,https://openalex.org/fields/11,Agricultural and Biological Sciences,97908
+2010,https://openalex.org/fields/16,Chemistry,72247
+2010,https://openalex.org/fields/20,"Economics, Econometrics and Finance",70153
+2010,https://openalex.org/fields/32,Psychology,66165
+2010,https://openalex.org/fields/36,Health Professions,58689
+2010,https://openalex.org/fields/14,"Business, Management and Accounting",56565
+2010,https://openalex.org/fields/28,Neuroscience,54746
+2010,https://openalex.org/fields/19,Earth and Planetary Sciences,46779
+2010,https://openalex.org/fields/26,Mathematics,36314
+2010,https://openalex.org/fields/24,Immunology and Microbiology,28775
+2010,https://openalex.org/fields/18,Decision Sciences,23753
+2010,https://openalex.org/fields/21,Energy,13395
+2010,https://openalex.org/fields/29,Nursing,11660
+2010,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",10479
+2010,https://openalex.org/fields/15,Chemical Engineering,10278
+2010,https://openalex.org/fields/35,Dentistry,9661
+2010,https://openalex.org/fields/34,Veterinary,4504
+2011,https://openalex.org/fields/27,Medicine,544339
+2011,https://openalex.org/fields/22,Engineering,418377
+2011,https://openalex.org/fields/33,Social Sciences,262121
+2011,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",180432
+2011,https://openalex.org/fields/17,Computer Science,171886
+2011,https://openalex.org/fields/25,Materials Science,121021
+2011,https://openalex.org/fields/23,Environmental Science,119082
+2011,https://openalex.org/fields/31,Physics and Astronomy,113126
+2011,https://openalex.org/fields/12,Arts and Humanities,105481
+2011,https://openalex.org/fields/11,Agricultural and Biological Sciences,104565
+2011,https://openalex.org/fields/16,Chemistry,77259
+2011,https://openalex.org/fields/20,"Economics, Econometrics and Finance",77109
+2011,https://openalex.org/fields/32,Psychology,69554
+2011,https://openalex.org/fields/14,"Business, Management and Accounting",64523
+2011,https://openalex.org/fields/36,Health Professions,62462
+2011,https://openalex.org/fields/28,Neuroscience,52349
+2011,https://openalex.org/fields/19,Earth and Planetary Sciences,50825
+2011,https://openalex.org/fields/26,Mathematics,40050
+2011,https://openalex.org/fields/24,Immunology and Microbiology,30832
+2011,https://openalex.org/fields/18,Decision Sciences,26107
+2011,https://openalex.org/fields/21,Energy,17266
+2011,https://openalex.org/fields/29,Nursing,12562
+2011,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",11075
+2011,https://openalex.org/fields/15,Chemical Engineering,11007
+2011,https://openalex.org/fields/35,Dentistry,10510
+2011,https://openalex.org/fields/34,Veterinary,4337
+2012,https://openalex.org/fields/27,Medicine,588288
+2012,https://openalex.org/fields/22,Engineering,444769
+2012,https://openalex.org/fields/33,Social Sciences,287706
+2012,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",188257
+2012,https://openalex.org/fields/17,Computer Science,182819
+2012,https://openalex.org/fields/23,Environmental Science,126263
+2012,https://openalex.org/fields/25,Materials Science,125828
+2012,https://openalex.org/fields/31,Physics and Astronomy,116029
+2012,https://openalex.org/fields/12,Arts and Humanities,115598
+2012,https://openalex.org/fields/11,Agricultural and Biological Sciences,114179
+2012,https://openalex.org/fields/20,"Economics, Econometrics and Finance",80374
+2012,https://openalex.org/fields/16,Chemistry,77313
+2012,https://openalex.org/fields/32,Psychology,75696
+2012,https://openalex.org/fields/14,"Business, Management and Accounting",68427
+2012,https://openalex.org/fields/36,Health Professions,68373
+2012,https://openalex.org/fields/28,Neuroscience,54009
+2012,https://openalex.org/fields/19,Earth and Planetary Sciences,53884
+2012,https://openalex.org/fields/26,Mathematics,40332
+2012,https://openalex.org/fields/24,Immunology and Microbiology,32773
+2012,https://openalex.org/fields/18,Decision Sciences,27768
+2012,https://openalex.org/fields/21,Energy,19547
+2012,https://openalex.org/fields/29,Nursing,13573
+2012,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",12107
+2012,https://openalex.org/fields/35,Dentistry,11623
+2012,https://openalex.org/fields/15,Chemical Engineering,11386
+2012,https://openalex.org/fields/34,Veterinary,4641
+2013,https://openalex.org/fields/27,Medicine,619881
+2013,https://openalex.org/fields/22,Engineering,486689
+2013,https://openalex.org/fields/33,Social Sciences,308428
+2013,https://openalex.org/fields/17,Computer Science,195522
+2013,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",194604
+2013,https://openalex.org/fields/23,Environmental Science,139426
+2013,https://openalex.org/fields/25,Materials Science,133037
+2013,https://openalex.org/fields/12,Arts and Humanities,124180
+2013,https://openalex.org/fields/11,Agricultural and Biological Sciences,121606
+2013,https://openalex.org/fields/31,Physics and Astronomy,115975
+2013,https://openalex.org/fields/20,"Economics, Econometrics and Finance",81683
+2013,https://openalex.org/fields/32,Psychology,80633
+2013,https://openalex.org/fields/16,Chemistry,80255
+2013,https://openalex.org/fields/36,Health Professions,72426
+2013,https://openalex.org/fields/14,"Business, Management and Accounting",72112
+2013,https://openalex.org/fields/28,Neuroscience,57643
+2013,https://openalex.org/fields/19,Earth and Planetary Sciences,56215
+2013,https://openalex.org/fields/26,Mathematics,44600
+2013,https://openalex.org/fields/24,Immunology and Microbiology,34678
+2013,https://openalex.org/fields/18,Decision Sciences,29890
+2013,https://openalex.org/fields/21,Energy,22664
+2013,https://openalex.org/fields/29,Nursing,14334
+2013,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",13153
+2013,https://openalex.org/fields/35,Dentistry,12928
+2013,https://openalex.org/fields/15,Chemical Engineering,11996
+2013,https://openalex.org/fields/34,Veterinary,4917
+2014,https://openalex.org/fields/27,Medicine,659562
+2014,https://openalex.org/fields/22,Engineering,528579
+2014,https://openalex.org/fields/33,Social Sciences,342668
+2014,https://openalex.org/fields/17,Computer Science,212172
+2014,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",202858
+2014,https://openalex.org/fields/23,Environmental Science,148607
+2014,https://openalex.org/fields/25,Materials Science,139600
+2014,https://openalex.org/fields/12,Arts and Humanities,138360
+2014,https://openalex.org/fields/11,Agricultural and Biological Sciences,134359
+2014,https://openalex.org/fields/31,Physics and Astronomy,120412
+2014,https://openalex.org/fields/32,Psychology,88474
+2014,https://openalex.org/fields/20,"Economics, Econometrics and Finance",86941
+2014,https://openalex.org/fields/16,Chemistry,82155
+2014,https://openalex.org/fields/36,Health Professions,79540
+2014,https://openalex.org/fields/14,"Business, Management and Accounting",79205
+2014,https://openalex.org/fields/19,Earth and Planetary Sciences,59680
+2014,https://openalex.org/fields/28,Neuroscience,59352
+2014,https://openalex.org/fields/26,Mathematics,46520
+2014,https://openalex.org/fields/24,Immunology and Microbiology,36321
+2014,https://openalex.org/fields/18,Decision Sciences,33093
+2014,https://openalex.org/fields/21,Energy,26116
+2014,https://openalex.org/fields/29,Nursing,15509
+2014,https://openalex.org/fields/35,Dentistry,14787
+2014,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",13635
+2014,https://openalex.org/fields/15,Chemical Engineering,12611
+2014,https://openalex.org/fields/34,Veterinary,5331
+2015,https://openalex.org/fields/27,Medicine,712035
+2015,https://openalex.org/fields/22,Engineering,545096
+2015,https://openalex.org/fields/33,Social Sciences,382130
+2015,https://openalex.org/fields/17,Computer Science,218559
+2015,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",214836
+2015,https://openalex.org/fields/23,Environmental Science,156060
+2015,https://openalex.org/fields/12,Arts and Humanities,148247
+2015,https://openalex.org/fields/11,Agricultural and Biological Sciences,148019
+2015,https://openalex.org/fields/25,Materials Science,142943
+2015,https://openalex.org/fields/31,Physics and Astronomy,119106
+2015,https://openalex.org/fields/32,Psychology,97159
+2015,https://openalex.org/fields/20,"Economics, Econometrics and Finance",91399
+2015,https://openalex.org/fields/36,Health Professions,86488
+2015,https://openalex.org/fields/14,"Business, Management and Accounting",85238
+2015,https://openalex.org/fields/16,Chemistry,82370
+2015,https://openalex.org/fields/19,Earth and Planetary Sciences,62195
+2015,https://openalex.org/fields/28,Neuroscience,61709
+2015,https://openalex.org/fields/26,Mathematics,47046
+2015,https://openalex.org/fields/24,Immunology and Microbiology,37674
+2015,https://openalex.org/fields/18,Decision Sciences,34824
+2015,https://openalex.org/fields/21,Energy,27857
+2015,https://openalex.org/fields/29,Nursing,16812
+2015,https://openalex.org/fields/35,Dentistry,16136
+2015,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",14288
+2015,https://openalex.org/fields/15,Chemical Engineering,12423
+2015,https://openalex.org/fields/34,Veterinary,5511
+2016,https://openalex.org/fields/27,Medicine,754442
+2016,https://openalex.org/fields/22,Engineering,590861
+2016,https://openalex.org/fields/33,Social Sciences,424386
+2016,https://openalex.org/fields/17,Computer Science,230210
+2016,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",225435
+2016,https://openalex.org/fields/23,Environmental Science,174731
+2016,https://openalex.org/fields/11,Agricultural and Biological Sciences,165924
+2016,https://openalex.org/fields/12,Arts and Humanities,154095
+2016,https://openalex.org/fields/25,Materials Science,149224
+2016,https://openalex.org/fields/31,Physics and Astronomy,126259
+2016,https://openalex.org/fields/32,Psychology,105035
+2016,https://openalex.org/fields/20,"Economics, Econometrics and Finance",95148
+2016,https://openalex.org/fields/14,"Business, Management and Accounting",94134
+2016,https://openalex.org/fields/36,Health Professions,92722
+2016,https://openalex.org/fields/16,Chemistry,81144
+2016,https://openalex.org/fields/19,Earth and Planetary Sciences,67969
+2016,https://openalex.org/fields/28,Neuroscience,62255
+2016,https://openalex.org/fields/26,Mathematics,48359
+2016,https://openalex.org/fields/24,Immunology and Microbiology,39572
+2016,https://openalex.org/fields/18,Decision Sciences,37078
+2016,https://openalex.org/fields/21,Energy,30953
+2016,https://openalex.org/fields/29,Nursing,18205
+2016,https://openalex.org/fields/35,Dentistry,17161
+2016,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",15042
+2016,https://openalex.org/fields/15,Chemical Engineering,13135
+2016,https://openalex.org/fields/34,Veterinary,5750
+2017,https://openalex.org/fields/27,Medicine,794028
+2017,https://openalex.org/fields/22,Engineering,643848
+2017,https://openalex.org/fields/33,Social Sciences,475651
+2017,https://openalex.org/fields/17,Computer Science,247819
+2017,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",228360
+2017,https://openalex.org/fields/23,Environmental Science,185898
+2017,https://openalex.org/fields/11,Agricultural and Biological Sciences,183666
+2017,https://openalex.org/fields/12,Arts and Humanities,166760
+2017,https://openalex.org/fields/25,Materials Science,152836
+2017,https://openalex.org/fields/31,Physics and Astronomy,124433
+2017,https://openalex.org/fields/32,Psychology,111731
+2017,https://openalex.org/fields/14,"Business, Management and Accounting",107975
+2017,https://openalex.org/fields/20,"Economics, Econometrics and Finance",102885
+2017,https://openalex.org/fields/36,Health Professions,101085
+2017,https://openalex.org/fields/16,Chemistry,74234
+2017,https://openalex.org/fields/19,Earth and Planetary Sciences,71217
+2017,https://openalex.org/fields/28,Neuroscience,65320
+2017,https://openalex.org/fields/26,Mathematics,50004
+2017,https://openalex.org/fields/24,Immunology and Microbiology,40505
+2017,https://openalex.org/fields/18,Decision Sciences,40357
+2017,https://openalex.org/fields/21,Energy,34003
+2017,https://openalex.org/fields/29,Nursing,19702
+2017,https://openalex.org/fields/35,Dentistry,18340
+2017,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",15184
+2017,https://openalex.org/fields/15,Chemical Engineering,13140
+2017,https://openalex.org/fields/34,Veterinary,6378
+2018,https://openalex.org/fields/27,Medicine,827352
+2018,https://openalex.org/fields/22,Engineering,712066
+2018,https://openalex.org/fields/33,Social Sciences,537915
+2018,https://openalex.org/fields/17,Computer Science,273703
+2018,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",224674
+2018,https://openalex.org/fields/23,Environmental Science,204892
+2018,https://openalex.org/fields/11,Agricultural and Biological Sciences,196171
+2018,https://openalex.org/fields/12,Arts and Humanities,185529
+2018,https://openalex.org/fields/25,Materials Science,160616
+2018,https://openalex.org/fields/31,Physics and Astronomy,123904
+2018,https://openalex.org/fields/14,"Business, Management and Accounting",120091
+2018,https://openalex.org/fields/32,Psychology,118098
+2018,https://openalex.org/fields/20,"Economics, Econometrics and Finance",109204
+2018,https://openalex.org/fields/36,Health Professions,106722
+2018,https://openalex.org/fields/19,Earth and Planetary Sciences,78004
+2018,https://openalex.org/fields/16,Chemistry,75107
+2018,https://openalex.org/fields/28,Neuroscience,65972
+2018,https://openalex.org/fields/26,Mathematics,53226
+2018,https://openalex.org/fields/18,Decision Sciences,43108
+2018,https://openalex.org/fields/24,Immunology and Microbiology,40298
+2018,https://openalex.org/fields/21,Energy,37963
+2018,https://openalex.org/fields/29,Nursing,20282
+2018,https://openalex.org/fields/35,Dentistry,19677
+2018,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",15601
+2018,https://openalex.org/fields/15,Chemical Engineering,13867
+2018,https://openalex.org/fields/34,Veterinary,6255
+2019,https://openalex.org/fields/27,Medicine,896505
+2019,https://openalex.org/fields/22,Engineering,776366
+2019,https://openalex.org/fields/33,Social Sciences,607334
+2019,https://openalex.org/fields/17,Computer Science,305401
+2019,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",240536
+2019,https://openalex.org/fields/23,Environmental Science,228586
+2019,https://openalex.org/fields/11,Agricultural and Biological Sciences,215214
+2019,https://openalex.org/fields/12,Arts and Humanities,190238
+2019,https://openalex.org/fields/25,Materials Science,171062
+2019,https://openalex.org/fields/14,"Business, Management and Accounting",135518
+2019,https://openalex.org/fields/32,Psychology,130594
+2019,https://openalex.org/fields/31,Physics and Astronomy,127532
+2019,https://openalex.org/fields/20,"Economics, Econometrics and Finance",120746
+2019,https://openalex.org/fields/36,Health Professions,116420
+2019,https://openalex.org/fields/19,Earth and Planetary Sciences,83423
+2019,https://openalex.org/fields/16,Chemistry,77230
+2019,https://openalex.org/fields/28,Neuroscience,71067
+2019,https://openalex.org/fields/26,Mathematics,56379
+2019,https://openalex.org/fields/18,Decision Sciences,47069
+2019,https://openalex.org/fields/24,Immunology and Microbiology,44060
+2019,https://openalex.org/fields/21,Energy,42092
+2019,https://openalex.org/fields/29,Nursing,22319
+2019,https://openalex.org/fields/35,Dentistry,21184
+2019,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",16488
+2019,https://openalex.org/fields/15,Chemical Engineering,14402
+2019,https://openalex.org/fields/34,Veterinary,6595
+2020,https://openalex.org/fields/27,Medicine,1005908
+2020,https://openalex.org/fields/22,Engineering,813599
+2020,https://openalex.org/fields/33,Social Sciences,687172
+2020,https://openalex.org/fields/17,Computer Science,322575
+2020,https://openalex.org/fields/23,Environmental Science,261725
+2020,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",254181
+2020,https://openalex.org/fields/11,Agricultural and Biological Sciences,244901
+2020,https://openalex.org/fields/12,Arts and Humanities,193825
+2020,https://openalex.org/fields/25,Materials Science,174046
+2020,https://openalex.org/fields/32,Psychology,151109
+2020,https://openalex.org/fields/14,"Business, Management and Accounting",148999
+2020,https://openalex.org/fields/20,"Economics, Econometrics and Finance",137742
+2020,https://openalex.org/fields/36,Health Professions,131843
+2020,https://openalex.org/fields/31,Physics and Astronomy,127122
+2020,https://openalex.org/fields/19,Earth and Planetary Sciences,90935
+2020,https://openalex.org/fields/16,Chemistry,77635
+2020,https://openalex.org/fields/28,Neuroscience,72670
+2020,https://openalex.org/fields/26,Mathematics,67758
+2020,https://openalex.org/fields/18,Decision Sciences,49632
+2020,https://openalex.org/fields/24,Immunology and Microbiology,46898
+2020,https://openalex.org/fields/21,Energy,45240
+2020,https://openalex.org/fields/35,Dentistry,25667
+2020,https://openalex.org/fields/29,Nursing,24521
+2020,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",17899
+2020,https://openalex.org/fields/15,Chemical Engineering,15463
+2020,https://openalex.org/fields/34,Veterinary,7239
+2021,https://openalex.org/fields/27,Medicine,1056184
+2021,https://openalex.org/fields/22,Engineering,836443
+2021,https://openalex.org/fields/33,Social Sciences,753881
+2021,https://openalex.org/fields/17,Computer Science,359687
+2021,https://openalex.org/fields/23,Environmental Science,284039
+2021,https://openalex.org/fields/11,Agricultural and Biological Sciences,258863
+2021,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",255257
+2021,https://openalex.org/fields/12,Arts and Humanities,198856
+2021,https://openalex.org/fields/25,Materials Science,174335
+2021,https://openalex.org/fields/32,Psychology,167910
+2021,https://openalex.org/fields/14,"Business, Management and Accounting",161673
+2021,https://openalex.org/fields/20,"Economics, Econometrics and Finance",147942
+2021,https://openalex.org/fields/36,Health Professions,136752
+2021,https://openalex.org/fields/31,Physics and Astronomy,122106
+2021,https://openalex.org/fields/19,Earth and Planetary Sciences,95991
+2021,https://openalex.org/fields/16,Chemistry,76002
+2021,https://openalex.org/fields/28,Neuroscience,75765
+2021,https://openalex.org/fields/26,Mathematics,70322
+2021,https://openalex.org/fields/18,Decision Sciences,51079
+2021,https://openalex.org/fields/21,Energy,48611
+2021,https://openalex.org/fields/24,Immunology and Microbiology,46683
+2021,https://openalex.org/fields/35,Dentistry,27881
+2021,https://openalex.org/fields/29,Nursing,24473
+2021,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",17768
+2021,https://openalex.org/fields/15,Chemical Engineering,15109
+2021,https://openalex.org/fields/34,Veterinary,7404
+2022,https://openalex.org/fields/27,Medicine,1070608
+2022,https://openalex.org/fields/22,Engineering,891779
+2022,https://openalex.org/fields/33,Social Sciences,787686
+2022,https://openalex.org/fields/17,Computer Science,397251
+2022,https://openalex.org/fields/23,Environmental Science,287774
+2022,https://openalex.org/fields/11,Agricultural and Biological Sciences,268935
+2022,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",261284
+2022,https://openalex.org/fields/12,Arts and Humanities,192414
+2022,https://openalex.org/fields/25,Materials Science,184476
+2022,https://openalex.org/fields/14,"Business, Management and Accounting",172513
+2022,https://openalex.org/fields/32,Psychology,168495
+2022,https://openalex.org/fields/20,"Economics, Econometrics and Finance",152690
+2022,https://openalex.org/fields/36,Health Professions,141779
+2022,https://openalex.org/fields/31,Physics and Astronomy,127909
+2022,https://openalex.org/fields/19,Earth and Planetary Sciences,91494
+2022,https://openalex.org/fields/16,Chemistry,79229
+2022,https://openalex.org/fields/28,Neuroscience,75765
+2022,https://openalex.org/fields/26,Mathematics,75607
+2022,https://openalex.org/fields/21,Energy,55324
+2022,https://openalex.org/fields/18,Decision Sciences,52609
+2022,https://openalex.org/fields/24,Immunology and Microbiology,48550
+2022,https://openalex.org/fields/35,Dentistry,27417
+2022,https://openalex.org/fields/29,Nursing,24427
+2022,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",18630
+2022,https://openalex.org/fields/15,Chemical Engineering,16420
+2022,https://openalex.org/fields/34,Veterinary,7336
+2023,https://openalex.org/fields/27,Medicine,1094192
+2023,https://openalex.org/fields/22,Engineering,936041
+2023,https://openalex.org/fields/33,Social Sciences,862108
+2023,https://openalex.org/fields/17,Computer Science,441466
+2023,https://openalex.org/fields/23,Environmental Science,302404
+2023,https://openalex.org/fields/11,Agricultural and Biological Sciences,278328
+2023,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",256231
+2023,https://openalex.org/fields/12,Arts and Humanities,203659
+2023,https://openalex.org/fields/14,"Business, Management and Accounting",200579
+2023,https://openalex.org/fields/20,"Economics, Econometrics and Finance",189620
+2023,https://openalex.org/fields/25,Materials Science,182677
+2023,https://openalex.org/fields/32,Psychology,172993
+2023,https://openalex.org/fields/36,Health Professions,153614
+2023,https://openalex.org/fields/19,Earth and Planetary Sciences,138892
+2023,https://openalex.org/fields/31,Physics and Astronomy,137359
+2023,https://openalex.org/fields/16,Chemistry,79270
+2023,https://openalex.org/fields/28,Neuroscience,78624
+2023,https://openalex.org/fields/26,Mathematics,73118
+2023,https://openalex.org/fields/21,Energy,57325
+2023,https://openalex.org/fields/18,Decision Sciences,56072
+2023,https://openalex.org/fields/24,Immunology and Microbiology,50082
+2023,https://openalex.org/fields/35,Dentistry,27487
+2023,https://openalex.org/fields/29,Nursing,25408
+2023,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",18593
+2023,https://openalex.org/fields/15,Chemical Engineering,16092
+2023,https://openalex.org/fields/34,Veterinary,7694
+2024,https://openalex.org/fields/27,Medicine,1163372
+2024,https://openalex.org/fields/22,Engineering,1049797
+2024,https://openalex.org/fields/33,Social Sciences,885260
+2024,https://openalex.org/fields/17,Computer Science,478851
+2024,https://openalex.org/fields/23,Environmental Science,317239
+2024,https://openalex.org/fields/11,Agricultural and Biological Sciences,300774
+2024,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",273552
+2024,https://openalex.org/fields/14,"Business, Management and Accounting",230790
+2024,https://openalex.org/fields/12,Arts and Humanities,212738
+2024,https://openalex.org/fields/25,Materials Science,194027
+2024,https://openalex.org/fields/20,"Economics, Econometrics and Finance",193913
+2024,https://openalex.org/fields/32,Psychology,189206
+2024,https://openalex.org/fields/36,Health Professions,170974
+2024,https://openalex.org/fields/31,Physics and Astronomy,134491
+2024,https://openalex.org/fields/19,Earth and Planetary Sciences,101346
+2024,https://openalex.org/fields/16,Chemistry,85211
+2024,https://openalex.org/fields/28,Neuroscience,82753
+2024,https://openalex.org/fields/26,Mathematics,72737
+2024,https://openalex.org/fields/18,Decision Sciences,63866
+2024,https://openalex.org/fields/21,Energy,63363
+2024,https://openalex.org/fields/24,Immunology and Microbiology,51107
+2024,https://openalex.org/fields/29,Nursing,29926
+2024,https://openalex.org/fields/35,Dentistry,28667
+2024,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",20413
+2024,https://openalex.org/fields/15,Chemical Engineering,18943
+2024,https://openalex.org/fields/34,Veterinary,7607
+2025,https://openalex.org/fields/27,Medicine,1313936
+2025,https://openalex.org/fields/22,Engineering,1163185
+2025,https://openalex.org/fields/33,Social Sciences,994808
+2025,https://openalex.org/fields/17,Computer Science,534985
+2025,https://openalex.org/fields/23,Environmental Science,359949
+2025,https://openalex.org/fields/11,Agricultural and Biological Sciences,337556
+2025,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",307188
+2025,https://openalex.org/fields/12,Arts and Humanities,275952
+2025,https://openalex.org/fields/14,"Business, Management and Accounting",251815
+2025,https://openalex.org/fields/32,Psychology,231332
+2025,https://openalex.org/fields/25,Materials Science,207491
+2025,https://openalex.org/fields/36,Health Professions,185170
+2025,https://openalex.org/fields/20,"Economics, Econometrics and Finance",177125
+2025,https://openalex.org/fields/31,Physics and Astronomy,156094
+2025,https://openalex.org/fields/19,Earth and Planetary Sciences,100227
+2025,https://openalex.org/fields/28,Neuroscience,97961
+2025,https://openalex.org/fields/16,Chemistry,88378
+2025,https://openalex.org/fields/26,Mathematics,80620
+2025,https://openalex.org/fields/18,Decision Sciences,76784
+2025,https://openalex.org/fields/21,Energy,65349
+2025,https://openalex.org/fields/24,Immunology and Microbiology,59449
+2025,https://openalex.org/fields/29,Nursing,34742
+2025,https://openalex.org/fields/35,Dentistry,34562
+2025,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",25021
+2025,https://openalex.org/fields/15,Chemical Engineering,20791
+2025,https://openalex.org/fields/34,Veterinary,9420
+2026,https://openalex.org/fields/27,Medicine,304326
+2026,https://openalex.org/fields/22,Engineering,215116
+2026,https://openalex.org/fields/33,Social Sciences,205915
+2026,https://openalex.org/fields/17,Computer Science,110140
+2026,https://openalex.org/fields/23,Environmental Science,90628
+2026,https://openalex.org/fields/13,"Biochemistry, Genetics and Molecular Biology",82286
+2026,https://openalex.org/fields/11,Agricultural and Biological Sciences,68046
+2026,https://openalex.org/fields/32,Psychology,57099
+2026,https://openalex.org/fields/12,Arts and Humanities,56416
+2026,https://openalex.org/fields/31,Physics and Astronomy,51051
+2026,https://openalex.org/fields/14,"Business, Management and Accounting",47896
+2026,https://openalex.org/fields/25,Materials Science,46855
+2026,https://openalex.org/fields/20,"Economics, Econometrics and Finance",37141
+2026,https://openalex.org/fields/36,Health Professions,35468
+2026,https://openalex.org/fields/19,Earth and Planetary Sciences,30185
+2026,https://openalex.org/fields/28,Neuroscience,26946
+2026,https://openalex.org/fields/26,Mathematics,21272
+2026,https://openalex.org/fields/16,Chemistry,18649
+2026,https://openalex.org/fields/18,Decision Sciences,18219
+2026,https://openalex.org/fields/24,Immunology and Microbiology,15523
+2026,https://openalex.org/fields/21,Energy,13364
+2026,https://openalex.org/fields/35,Dentistry,7923
+2026,https://openalex.org/fields/29,Nursing,7743
+2026,https://openalex.org/fields/30,"Pharmacology, Toxicology and Pharmaceutics",7236
+2026,https://openalex.org/fields/15,Chemical Engineering,4732
+2026,https://openalex.org/fields/34,Veterinary,2645
